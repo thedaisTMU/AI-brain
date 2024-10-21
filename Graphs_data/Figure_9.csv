@@ -1,0 +1,114 @@
+noc_2021,aioe,caioe,groupmean,noc_title,exposure_level,comp_level,quadrant,label
+10019,6.524487672,4.826234238,0.608888889,Other administrative services managers,High Exposure,Low Complementarity,HE-LC,NA
+10022,6.629146986,4.878815906,0.612555556,"Advertising, marketing and public relations managers",High Exposure,Low Complementarity,HE-LC,NA
+10030,6.233941817,4.722210926,0.590833333,Telecommunication carriers managers,High Exposure,Low Complementarity,HE-LC,NA
+11100,6.705747841,5.206268115,0.571944444,Financial auditors and accountants,High Exposure,Low Complementarity,HE-LC,Auditors and accountants
+11102,6.679859123,5.284510773,0.557222222,Financial advisors,High Exposure,Low Complementarity,HE-LC,NA
+11103,6.668288733,5.027148784,0.594444444,"Securities agents, investment dealers and brokers",High Exposure,Low Complementarity,HE-LC,NA
+11109,6.650237614,5.107442807,0.580388889,Other financial officers,High Exposure,Low Complementarity,HE-LC,NA
+11201,6.559356224,5.002595668,0.585555556,Professional occupations in business management consulting,High Exposure,Low Complementarity,HE-LC,NA
+11202,6.630252091,5.000096998,0.594375,"Professional occupations in advertising, marketing and public relations",High Exposure,Low Complementarity,HE-LC,NA
+12010,6.502773276,4.952945645,0.586666667,"Supervisors, general office and administrative support workers",High Exposure,Low Complementarity,HE-LC,NA
+12011,6.502773276,4.952945645,0.586666667,"Supervisors, finance and insurance office workers",High Exposure,Low Complementarity,HE-LC,NA
+12012,6.339542645,4.781071745,0.594166667,"Supervisors, library, correspondence and related information workers",High Exposure,Low Complementarity,HE-LC,NA
+12100,6.521234315,5.528557536,0.500555556,Executive assistants,High Exposure,Low Complementarity,HE-LC,NA
+12104,6.450139253,5.332483813,0.522962963,Employment insurance and revenue officers,High Exposure,Low Complementarity,HE-LC,NA
+12110,6.392244358,5.118764019,0.547361111,"Court reporters, medical transcriptionists and related occupations",High Exposure,Low Complementarity,HE-LC,NA
+12111,6.444289961,4.754777585,0.612592593,Health information management occupations,High Exposure,Low Complementarity,HE-LC,NA
+12112,6.187362697,5.333191946,0.483888889,Records management technicians,High Exposure,Low Complementarity,HE-LC,NA
+12113,6.640630651,5.407139697,0.533981481,Statistical officers and related research support occupations,High Exposure,Low Complementarity,HE-LC,NA
+12200,6.503251614,5.437440933,0.512222222,Accounting technicians and bookkeepers,High Exposure,Low Complementarity,HE-LC,NA
+12201,6.474649483,5.14458982,0.55375,Insurance adjusters and claims examiners,High Exposure,Low Complementarity,HE-LC,NA
+12202,6.632575021,5.38528244,0.536388889,Insurance underwriters,High Exposure,Low Complementarity,HE-LC,NA
+12203,6.516794378,5.188361007,0.5525,"Assessors, business valuators and appraisers",High Exposure,Low Complementarity,HE-LC,NA
+13100,6.621021758,5.443662771,0.525694444,Administrative officers,High Exposure,Low Complementarity,HE-LC,NA
+13102,6.566024376,5.756214703,0.471666667,Payroll administrators,High Exposure,Low Complementarity,HE-LC,Payroll administrators
+13110,6.510392044,5.497769009,0.503888889,Administrative assistants,High Exposure,Low Complementarity,HE-LC,Administrative assistants
+13111,6.616979534,5.756772194,0.478333333,Legal administrative assistants,High Exposure,Low Complementarity,HE-LC,NA
+13112,6.10041421,4.643093038,0.587222222,Medical administrative assistants,High Exposure,Low Complementarity,HE-LC,NA
+13200,6.729419255,5.471391711,0.535277778,"Customs, ship and other brokers",High Exposure,Low Complementarity,HE-LC,NA
+13201,6.677801078,5.184570559,0.571944444,Production and transportation logistics coordinators,High Exposure,Low Complementarity,HE-LC,NA
+14100,6.269058316,5.351560587,0.496805556,General office support workers,High Exposure,Low Complementarity,HE-LC,NA
+14101,6.499343417,5.699563102,0.471388889,Receptionists,High Exposure,Low Complementarity,HE-LC,NA
+14102,6.64449433,5.435565501,0.530277778,Personnel clerks,High Exposure,Low Complementarity,HE-LC,NA
+14103,6.596338983,5.230802446,0.554814815,Court clerks and related court services occupations,High Exposure,Low Complementarity,HE-LC,NA
+14110,6.112442163,4.894194754,0.548472222,Survey interviewers and statistical clerks,High Exposure,Low Complementarity,HE-LC,NA
+14111,6.174677878,5.313653352,0.487777778,Data entry clerks,High Exposure,Low Complementarity,HE-LC,Data entry clerks
+14112,6.322206313,5.368606861,0.499166667,Desktop publishing operators and related occupations,High Exposure,Low Complementarity,HE-LC,NA
+14200,6.567777565,5.495074057,0.511547619,Accounting and related clerks,High Exposure,Low Complementarity,HE-LC,NA
+14201,6.503054053,5.463079669,0.508680556,"Banking, insurance and other financial clerks",High Exposure,Low Complementarity,HE-LC,NA
+14202,6.637043594,5.645174301,0.497777778,Collection clerks,High Exposure,Low Complementarity,HE-LC,NA
+14300,6.126484757,5.004997686,0.531388889,Library assistants and clerks,High Exposure,Low Complementarity,HE-LC,NA
+14301,6.604468229,5.633978315,0.495277778,"Correspondence, publication and regulatory clerks",High Exposure,Low Complementarity,HE-LC,NA
+14402,6.417394855,4.916437503,0.582222222,Production logistics workers,High Exposure,Low Complementarity,HE-LC,NA
+14403,6.591214235,5.624502814,0.495,Purchasing and inventory control workers,High Exposure,Low Complementarity,HE-LC,NA
+14404,6.488309259,5.428105144,0.511458333,Dispatchers,High Exposure,Low Complementarity,HE-LC,NA
+21100,6.621194139,4.921518481,0.604930556,Physicists and astronomers,High Exposure,Low Complementarity,HE-LC,NA
+21103,6.653879989,4.914629692,0.609722222,Meteorologists and climatologists,High Exposure,Low Complementarity,HE-LC,NA
+21210,6.688735262,5.248822313,0.563611111,"Mathematicians, statisticians and actuaries",High Exposure,Low Complementarity,HE-LC,NA
+21211,6.64236307,5.199012017,0.566111111,Data scientists,High Exposure,Low Complementarity,HE-LC,NA
+21220,6.59808968,5.062201027,0.581111111,Cybersecurity specialists,High Exposure,Low Complementarity,HE-LC,NA
+21221,6.63112094,5.275972855,0.552638889,Business systems specialists,High Exposure,Low Complementarity,HE-LC,NA
+21222,6.569506529,5.251024109,0.549027778,Information systems specialists,High Exposure,Low Complementarity,HE-LC,NA
+21223,6.650596313,5.365705242,0.541527778,Database analysts and data administrators,High Exposure,Low Complementarity,HE-LC,NA
+21230,6.416177218,5.219193637,0.535648148,Computer systems developers and programmers,High Exposure,Low Complementarity,HE-LC,NA
+21231,6.575901,1.017029778,0.611888889,Software engineers and designers,High Exposure,Low Complementarity,HE-LC,Software engineers and designers
+21232,6.607717052,5.623901402,0.497222222,Software developers and programmers,High Exposure,Low Complementarity,HE-LC,NA
+21233,6.543558983,5.320003531,0.535277778,Web designers,High Exposure,Low Complementarity,HE-LC,NA
+21234,6.566688631,5.514661638,0.508611111,Web developers and programmers,High Exposure,Low Complementarity,HE-LC,NA
+21311,6.569785616,5.07829933,0.575277778,Computer engineers (except software engineers and designers),High Exposure,Low Complementarity,HE-LC,NA
+21390,6.638022585,4.902917237,0.609722222,Aerospace engineers,High Exposure,Low Complementarity,HE-LC,NA
+22100,6.084932755,4.638538427,0.585925926,Chemical technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22101,6.087849436,4.479787006,0.6125,Geological and mineral technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22110,6.170363434,4.68262025,0.589444444,Biological technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22111,6.111427182,4.575082294,0.599722222,Agricultural and fish products inspectors,High Exposure,Low Complementarity,HE-LC,NA
+22210,6.458722942,5.145449278,0.551666667,Architectural technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22212,6.43860866,5.184226028,0.543134921,Drafting technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22213,6.123320702,4.670732958,0.585555556,Land survey technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22214,6.410887506,5.117388913,0.550555556,Technical occupations in geomatics and meteorology,High Exposure,Low Complementarity,HE-LC,NA
+22220,6.46098082,5.08742883,0.561041667,Computer network and web technicians,High Exposure,Low Complementarity,HE-LC,NA
+22221,6.072101685,4.547017228,0.598611111,User support technicians,High Exposure,Low Complementarity,HE-LC,NA
+22222,6.584672242,5.254934264,0.550277778,Information systems testing technicians,High Exposure,Low Complementarity,HE-LC,NA
+22300,6.334761929,4.793328554,0.591388889,Civil engineering technologists and technicians,High Exposure,Low Complementarity,HE-LC,NA
+22303,6.671857031,5.255940705,0.560555556,Construction estimators,High Exposure,Low Complementarity,HE-LC,NA
+30010,6.660997535,5.178236984,0.57125,Managers in health care,High Exposure,Low Complementarity,HE-LC,NA
+31300,6.380558513,5.162935263,0.539166667,Nursing coordinators and supervisors,High Exposure,Low Complementarity,HE-LC,NA
+32100,6.12878838,4.572757108,0.602222222,Opticians,High Exposure,Low Complementarity,HE-LC,NA
+33109,6.014574201,4.546902734,0.592373737,Other assisting occupations in support of health services,High Exposure,Low Complementarity,HE-LC,NA
+41201,6.565268621,5.070863464,0.57625,Post-secondary teaching and research assistants,High Exposure,Low Complementarity,HE-LC,NA
+41401,6.660172617,5.087616895,0.584444444,Economists and economic policy researchers and analysts,High Exposure,Low Complementarity,HE-LC,Economists
+41402,6.677697266,5.28465542,0.556944444,Business development officers and market researchers and analysts,High Exposure,Low Complementarity,HE-LC,NA
+41403,6.637994738,5.342212603,0.543333333,"Social policy researchers, consultants and program officers",High Exposure,Low Complementarity,HE-LC,NA
+41404,6.427413732,4.795460963,0.605694444,"Health policy researchers, consultants and program officers",High Exposure,Low Complementarity,HE-LC,NA
+41406,6.595008835,5.519656005,0.511388889,"Recreation, sports and fitness policy researchers, consultants and program officers",High Exposure,Low Complementarity,HE-LC,NA
+41407,6.592338725,5.471641142,0.518333333,Program officers unique to government,High Exposure,Low Complementarity,HE-LC,NA
+42200,6.648947041,5.385584862,0.538055556,Paralegals and related occupations,High Exposure,Low Complementarity,HE-LC,NA
+42202,6.048389039,4.455646592,0.611666667,Early childhood educators and assistants,High Exposure,Low Complementarity,HE-LC,NA
+51102,6.339542645,4.781071745,0.594166667,Archivists,High Exposure,Low Complementarity,HE-LC,NA
+51111,6.489752863,5.157400654,0.552962963,Authors and writers (except technical),High Exposure,Low Complementarity,HE-LC,Writers
+51112,6.568273856,5.371388398,0.530555556,Technical writers,High Exposure,Low Complementarity,HE-LC,NA
+51121,6.251375838,4.642916923,0.606805556,"Conductors, composers and arrangers",High Exposure,Low Complementarity,HE-LC,NA
+51122,6.019128556,5.020956403,0.514166667,Musicians and singers,High Exposure,Low Complementarity,HE-LC,NA
+52100,6.051692512,4.888422729,0.540555556,Library and public archive technicians,High Exposure,Low Complementarity,HE-LC,NA
+52111,6.158020763,5.242810261,0.493472222,Graphic arts technicians,High Exposure,Low Complementarity,HE-LC,NA
+52112,6.089672685,4.673823785,0.580833333,Broadcast technicians,High Exposure,Low Complementarity,HE-LC,NA
+52113,6.113513922,4.586557856,0.598194444,Audio and video recording technicians,High Exposure,Low Complementarity,HE-LC,NA
+52120,6.362911254,4.828119961,0.589583333,Graphic designers and illustrators,High Exposure,Low Complementarity,HE-LC,Graphic designers
+53123,6.260278956,4.715432817,0.595416667,"Theatre, fashion, exhibit and other creative designers",High Exposure,Low Complementarity,HE-LC,NA
+53125,5.997116868,4.742719923,0.5575,"Patternmakers - textile, leather and fur products",High Exposure,Low Complementarity,HE-LC,NA
+53202,6.011560786,4.815928141,0.547222222,Sports officials and referees,High Exposure,Low Complementarity,HE-LC,NA
+62010,6.187927951,4.670095986,0.593796296,Retail sales supervisors,High Exposure,Low Complementarity,HE-LC,NA
+63100,6.639157942,5.008875825,0.593888889,Insurance agents and brokers,High Exposure,Low Complementarity,HE-LC,NA
+63102,6.675194987,5.179761238,0.572407407,Financial sales representatives,High Exposure,Low Complementarity,HE-LC,NA
+64100,6.049522856,4.700877995,0.570888889,Retail salespersons and visual merchandisers,High Exposure,Low Complementarity,HE-LC,Salespersons
+64300,6.009090285,4.802264653,0.549166667,Maîtres d'hôtel and hosts/hostesses,High Exposure,Low Complementarity,HE-LC,NA
+64310,6.545554444,5.46735617,0.513055556,Travel counsellors,High Exposure,Low Complementarity,HE-LC,NA
+64312,6.137041535,4.872129085,0.554444444,Airline ticket and service agents,High Exposure,Low Complementarity,HE-LC,NA
+64313,6.238565866,4.872596428,0.567083333,"Ground and water transport ticket agents, cargo service representatives and related clerks",High Exposure,Low Complementarity,HE-LC,NA
+64314,6.363532867,4.785935454,0.595972222,Hotel front desk clerks,High Exposure,Low Complementarity,HE-LC,NA
+64321,6.063761885,4.994633252,0.524722222,Casino workers,High Exposure,Low Complementarity,HE-LC,NA
+64400,6.510472632,5.879318479,0.445277778,Customer services representatives - financial institutions,High Exposure,Low Complementarity,HE-LC,NA
+64409,6.608430958,5.197621068,0.561458333,Other customer and information services representatives,High Exposure,Low Complementarity,HE-LC,NA
+65109,6.415723604,5.074735259,0.55781746,Other sales related occupations,High Exposure,Low Complementarity,HE-LC,NA
+72601,6.554208812,5.055843853,0.576944444,Air traffic controllers and related occupations,High Exposure,Low Complementarity,HE-LC,NA
+94151,6.219747864,5.373171071,0.484444444,"Camera, platemaking and other prepress occupations",High Exposure,Low Complementarity,HE-LC,NA

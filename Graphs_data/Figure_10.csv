@@ -1,0 +1,257 @@
+noc_2021,aioe,caioe,groupmean,noc_title,exposure_level,comp_level,quadrant,label
+14400,5.698171242,4.455653346,0.566388889,Shippers and receivers,Low Exposure,Low Complementarity,LE-LC,NA
+14401,5.490511607,4.525096649,0.524166667,Storekeepers and partspersons,Low Exposure,Low Complementarity,LE-LC,NA
+21112,5.943252743,4.511247605,0.585069444,"Agricultural representatives, consultants and specialists",Low Exposure,Low Complementarity,LE-LC,NA
+22112,5.85443334,3.610888657,0.7325,Forestry technologists and technicians,Low Exposure,High Complementarity,LE-HC,NA
+22114,5.212270823,4.365276815,0.510833333,Landscape and horticulture technicians and specialists,Low Exposure,Low Complementarity,LE-LC,NA
+22230,5.922356876,4.396602514,0.605833333,Non-destructive testers and inspectors,Low Exposure,Low Complementarity,LE-LC,NA
+22231,5.923692386,4.051855669,0.66375,Engineering inspectors and regulatory officers,Low Exposure,High Complementarity,LE-HC,NA
+22311,5.793745084,4.000438539,0.658472222,Electronic service technicians (household and business equipment),Low Exposure,High Complementarity,LE-HC,NA
+22312,5.924871962,4.175646898,0.640925926,Industrial instrument technicians and mechanics,Low Exposure,High Complementarity,LE-HC,NA
+22313,5.968914526,4.402508656,0.611111111,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",Low Exposure,Low Complementarity,LE-LC,NA
+31201,5.948406252,3.559129741,0.75,Chiropractors,Low Exposure,High Complementarity,LE-HC,NA
+31202,5.863692719,3.348820064,0.777222222,Physiotherapists,Low Exposure,High Complementarity,LE-HC,NA
+32101,5.8134515,4.137239651,0.636666667,Licensed practical nurses,Low Exposure,High Complementarity,LE-HC,NA
+32102,5.660511188,3.746943934,0.686388889,Paramedical occupations,Low Exposure,High Complementarity,LE-HC,NA
+32109,5.939528393,4.401509341,0.60770202,Other technical occupations in therapy and assessment,Low Exposure,Low Complementarity,LE-LC,NA
+32110,5.95284375,3.282331901,0.796944444,Denturists,Low Exposure,High Complementarity,LE-HC,Denturists
+32111,5.813774578,4.455612239,0.581944444,Dental hygienists and dental therapists,Low Exposure,Low Complementarity,LE-LC,NA
+32112,5.960452914,4.938897511,0.519722222,Dental technologists and technicians,Low Exposure,Low Complementarity,LE-LC,NA
+32121,5.917956965,4.264981415,0.627638889,Medical radiation technologists,Low Exposure,High Complementarity,LE-HC,NA
+32122,5.915555518,4.525399971,0.583333333,Medical sonographers,Low Exposure,Low Complementarity,LE-LC,NA
+32124,5.93628949,4.01564535,0.671111111,Pharmacy technicians,Low Exposure,High Complementarity,LE-HC,NA
+32129,5.93628949,4.01564535,0.671111111,Other medical technologists and technicians,Low Exposure,High Complementarity,LE-HC,NA
+32201,5.374356796,4.124818841,0.580833333,Massage therapists,Low Exposure,Low Complementarity,LE-LC,NA
+33100,5.900693731,4.56082782,0.575972222,Dental assistants and dental laboratory assistants,Low Exposure,Low Complementarity,LE-LC,NA
+33101,5.9432616,4.45765162,0.598611111,Medical laboratory assistants and related technical occupations,Low Exposure,Low Complementarity,LE-LC,NA
+33102,5.809991435,4.428981618,0.587301587,"Nurse aides, orderlies and patient service associates",Low Exposure,Low Complementarity,LE-LC,NA
+33103,5.884879628,4.329769151,0.611979167,Pharmacy technical assistants and pharmacy assistants,Low Exposure,Low Complementarity,LE-LC,NA
+40040,5.947886023,3.416730082,0.773888889,Commissioned police officers and related occupations in public protection services,Low Exposure,High Complementarity,LE-HC,NA
+40041,5.720581295,3.147908763,0.798055556,Fire chiefs and senior firefighting officers,Low Exposure,High Complementarity,LE-HC,NA
+42100,5.760064855,3.490125382,0.742083333,Police officers (except commissioned),Low Exposure,High Complementarity,LE-HC,NA
+42101,5.676381746,3.434848883,0.743944444,Firefighters,Low Exposure,High Complementarity,LE-HC,Firefighters
+43200,5.732806708,3.944183221,0.660555556,Sheriffs and bailiffs,Low Exposure,High Complementarity,LE-HC,NA
+43201,5.618266032,3.753313835,0.680277778,Correctional service officers,Low Exposure,High Complementarity,LE-HC,NA
+43202,5.969503326,4.459371236,0.601180556,By-law enforcement and other regulatory officers,Low Exposure,Low Complementarity,LE-LC,NA
+44100,5.888368052,4.332676649,0.612638889,Home child care providers,Low Exposure,Low Complementarity,LE-LC,Child care providers
+44101,5.77655005,4.600380276,0.551944444,"Home support workers, caregivers and related occupations",Low Exposure,Low Complementarity,LE-LC,NA
+45100,5.812465396,4.240122141,0.61875,"Student monitors, crossing guards and related occupations",Low Exposure,High Complementarity,LE-HC,NA
+52110,5.83309117,4.322968678,0.607222222,Film and video camera operators,Low Exposure,Low Complementarity,LE-LC,NA
+52119,5.828815853,4.362759016,0.599861111,"Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts",Low Exposure,Low Complementarity,LE-LC,NA
+53110,5.946157338,4.365470512,0.614166667,Photographers,Low Exposure,High Complementarity,LE-HC,NA
+53111,5.761055988,4.44213515,0.579513889,"Motion pictures, broadcasting, photography and performing arts assistants and operators",Low Exposure,Low Complementarity,LE-LC,NA
+53120,4.83117283,3.705241162,0.581388889,Dancers,Low Exposure,Low Complementarity,LE-LC,Dancers
+53121,5.790803512,4.843188694,0.507638889,"Actors, comedians and circus performers",Low Exposure,Low Complementarity,LE-LC,NA
+53122,5.778077737,5.14730425,0.4575,"Painters, sculptors and other visual artists",Low Exposure,Low Complementarity,LE-LC,NA
+53124,5.833884266,4.663184931,0.548277778,Artisans and craftspersons,Low Exposure,Low Complementarity,LE-LC,NA
+53200,5.216758485,3.735778715,0.632222222,Athletes,Low Exposure,High Complementarity,LE-HC,NA
+54100,5.630436232,3.929604644,0.649166667,"Program leaders and instructors in recreation, sport and fitness",Low Exposure,High Complementarity,LE-HC,NA
+55109,5.475314746,5.038810487,0.428055556,Other performers,Low Exposure,Low Complementarity,LE-LC,NA
+62020,5.918487711,4.044299936,0.665,Food service supervisors,Low Exposure,High Complementarity,LE-HC,NA
+62021,5.795825081,4.214852795,0.621111111,Executive housekeepers,Low Exposure,High Complementarity,LE-HC,NA
+62024,5.795825081,4.214852795,0.621111111,Cleaning supervisors,Low Exposure,High Complementarity,LE-HC,NA
+62200,5.901226374,3.875138652,0.691666667,Chefs,Low Exposure,High Complementarity,LE-HC,Chefs
+62201,5.827027349,3.557627037,0.738055556,Funeral directors and embalmers,Low Exposure,High Complementarity,LE-HC,NA
+62202,5.955022783,4.955738295,0.516222222,"Jewellers, jewellery and watch repairers and related occupations",Low Exposure,Low Complementarity,LE-LC,NA
+63200,5.724964128,4.64109973,0.537555556,Cooks,Low Exposure,Low Complementarity,LE-LC,NA
+63201,5.596899916,4.406003989,0.561111111,Butchers - retail and wholesale,Low Exposure,Low Complementarity,LE-LC,NA
+63202,5.860904262,4.827105871,0.524722222,Bakers,Low Exposure,Low Complementarity,LE-LC,NA
+63210,5.716365973,4.257661786,0.603472222,Hairstylists and barbers,Low Exposure,Low Complementarity,LE-LC,NA
+63211,5.933080109,4.652735137,0.562916667,"Estheticians, electrologists and related occupations",Low Exposure,Low Complementarity,LE-LC,NA
+63220,5.640286769,4.864747338,0.485833333,Shoe repairers and shoemakers,Low Exposure,Low Complementarity,LE-LC,NA
+63221,5.442407124,4.678958346,0.488611111,Upholsterers,Low Exposure,Low Complementarity,LE-LC,NA
+64200,5.789534627,4.750634802,0.527777778,"Tailors, dressmakers, furriers and milliners",Low Exposure,Low Complementarity,LE-LC,NA
+64201,5.883265754,4.391481569,0.598472222,"Image, social and other personal consultants",Low Exposure,Low Complementarity,LE-LC,NA
+64301,5.756919704,5.018115009,0.476666667,Bartenders,Low Exposure,Low Complementarity,LE-LC,NA
+64311,5.621125335,3.599079925,0.706944444,Pursers and flight attendants,Low Exposure,High Complementarity,LE-HC,NA
+64322,5.924543618,3.974381343,0.6775,Outdoor sport and recreational guides,Low Exposure,High Complementarity,LE-HC,NA
+64401,5.87573802,4.946907117,0.506111111,Postal services representatives,Low Exposure,Low Complementarity,LE-LC,NA
+64410,5.844485653,4.275042406,0.617222222,Security guards and related security service occupations,Low Exposure,High Complementarity,LE-HC,NA
+65100,5.922752488,5.216957816,0.4675,Cashiers,Low Exposure,Low Complementarity,LE-LC,Cashiers
+65101,5.723107993,3.793148797,0.685555556,Service station attendants,Low Exposure,High Complementarity,LE-HC,NA
+65102,5.490511607,4.525096649,0.524166667,"Store shelf stockers, clerks and order fillers",Low Exposure,Low Complementarity,LE-LC,NA
+65200,5.438765246,4.587396642,0.503402778,Food and beverage servers,Low Exposure,Low Complementarity,LE-LC,NA
+65201,5.689286435,4.894307881,0.488611111,"Food counter attendants, kitchen helpers and related support occupations",Low Exposure,Low Complementarity,LE-LC,NA
+65202,5.596899916,4.406003989,0.561111111,Meat cutters and fishmongers - retail and wholesale,Low Exposure,Low Complementarity,LE-LC,NA
+65210,5.663328573,4.430730938,0.568194444,"Support occupations in accommodation, travel and facilities set-up services",Low Exposure,Low Complementarity,LE-LC,NA
+65211,5.969471199,4.256183929,0.634444444,"Operators and attendants in amusement, recreation and sport",Low Exposure,High Complementarity,LE-HC,NA
+65220,5.627589122,3.939411363,0.648333333,Pet groomers and animal care workers,Low Exposure,High Complementarity,LE-HC,NA
+65310,5.561989149,4.79268586,0.484027778,Light duty cleaners,Low Exposure,Low Complementarity,LE-LC,NA
+65311,5.272076627,4.116613166,0.5675,Specialized cleaners,Low Exposure,Low Complementarity,LE-LC,NA
+65312,5.388025524,4.055985881,0.595555556,"Janitors, caretakers and heavy-duty cleaners",Low Exposure,Low Complementarity,LE-LC,Janitors
+65320,5.559304158,5.058966784,0.438333333,"Dry cleaning, laundry and related occupations",Low Exposure,Low Complementarity,LE-LC,NA
+65329,5.900750888,4.456034281,0.592118056,Other service support occupations,Low Exposure,Low Complementarity,LE-LC,NA
+72010,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",Low Exposure,High Complementarity,LE-HC,NA
+72011,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, electrical trades and telecommunications occupations",Low Exposure,High Complementarity,LE-HC,NA
+72012,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, pipefitting trades",Low Exposure,High Complementarity,LE-HC,NA
+72013,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, carpentry trades",Low Exposure,High Complementarity,LE-HC,NA
+72014,5.877118694,3.502261648,0.752361111,"Contractors and supervisors, other construction trades, installers, repairers and servicers",Low Exposure,High Complementarity,LE-HC,NA
+72020,5.844234115,3.775641815,0.701296296,"Contractors and supervisors, mechanic trades",Low Exposure,High Complementarity,LE-HC,NA
+72021,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, heavy equipment operator crews",Low Exposure,High Complementarity,LE-HC,NA
+72022,5.979663209,3.848577682,0.704722222,"Supervisors, printing and related occupations",Low Exposure,High Complementarity,LE-HC,NA
+72023,5.902033983,3.965257342,0.676111111,"Supervisors, railway transport operations",Low Exposure,High Complementarity,LE-HC,NA
+72024,5.870666067,4.221754325,0.627777778,"Supervisors, motor transport and other ground transit operators",Low Exposure,High Complementarity,LE-HC,NA
+72100,5.644522322,4.501506551,0.550833333,Machinists and machining and tooling inspectors,Low Exposure,Low Complementarity,LE-LC,NA
+72101,5.750972951,4.319619684,0.597222222,Tool and die makers,Low Exposure,Low Complementarity,LE-LC,NA
+72102,5.526754439,4.363065588,0.558888889,Sheet metal workers,Low Exposure,Low Complementarity,LE-LC,NA
+72103,5.539861668,3.796344093,0.663055556,Boilermakers,Low Exposure,High Complementarity,LE-HC,NA
+72104,5.549428946,3.718117394,0.678333333,Structural metal and platework fabricators and fitters,Low Exposure,High Complementarity,LE-HC,NA
+72105,5.189174373,3.537117405,0.666527778,Ironworkers,Low Exposure,High Complementarity,LE-HC,NA
+72106,5.566512468,4.718187291,0.500763889,Welders and related machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+72200,5.664204633,3.527540775,0.725555556,Electricians (except industrial and power system),Low Exposure,High Complementarity,LE-HC,NA
+72201,5.659602973,3.628349986,0.707222222,Industrial electricians,Low Exposure,High Complementarity,LE-HC,NA
+72202,5.664204633,3.527540775,0.725555556,Power system electricians,Low Exposure,High Complementarity,LE-HC,NA
+72203,5.478333345,3.3433051,0.738055556,Electrical power line and cable workers,Low Exposure,High Complementarity,LE-HC,NA
+72204,5.664223833,4.056282038,0.6325,Telecommunications line and cable installers and repairers,Low Exposure,High Complementarity,LE-HC,NA
+72205,5.697080353,4.080310966,0.632222222,Telecommunications equipment installation and cable television service technicians,Low Exposure,High Complementarity,LE-HC,NA
+72300,5.523745075,3.653343617,0.686944444,Plumbers,Low Exposure,High Complementarity,LE-HC,NA
+72301,5.523745075,3.653343617,0.686944444,"Steamfitters, pipefitters and sprinkler system installers",Low Exposure,High Complementarity,LE-HC,NA
+72302,5.523745075,3.653343617,0.686944444,Gas fitters,Low Exposure,High Complementarity,LE-HC,NA
+72310,5.445526961,4.013644526,0.611111111,Carpenters,Low Exposure,Low Complementarity,LE-LC,NA
+72311,5.436207323,4.590575073,0.503888889,Cabinetmakers,Low Exposure,Low Complementarity,LE-LC,NA
+72320,5.307148417,3.860018182,0.621759259,Bricklayers,Low Exposure,High Complementarity,LE-HC,NA
+72321,5.304910005,4.092148634,0.576944444,Insulators,Low Exposure,Low Complementarity,LE-LC,NA
+72400,5.503397191,3.97350449,0.626805556,Construction millwrights and industrial mechanics,Low Exposure,High Complementarity,LE-HC,NA
+72401,5.498892024,3.797934181,0.657638889,Heavy-duty equipment mechanics,Low Exposure,High Complementarity,LE-HC,NA
+72402,5.628293082,3.727180752,0.686111111,"Heating, refrigeration and air conditioning mechanics",Low Exposure,High Complementarity,LE-HC,NA
+72403,5.381840256,3.9586425,0.612777778,Railway carmen/women,Low Exposure,Low Complementarity,LE-LC,NA
+72404,5.73928152,4.153007878,0.624722222,Aircraft mechanics and aircraft inspectors,Low Exposure,High Complementarity,LE-HC,NA
+72405,5.644522322,4.501506551,0.550833333,Machine fitters,Low Exposure,Low Complementarity,LE-LC,NA
+72406,5.61751664,3.631100339,0.701944444,Elevator constructors and mechanics,Low Exposure,High Complementarity,LE-HC,NA
+72410,5.647499861,4.12237118,0.618492063,"Automotive service technicians, truck and bus mechanics and mechanical repairers",Low Exposure,High Complementarity,LE-HC,NA
+72411,5.499668328,4.347096827,0.557916667,"Auto body collision, refinishing and glass technicians and damage repair estimators",Low Exposure,Low Complementarity,LE-LC,NA
+72420,5.628293082,3.727180752,0.686111111,Oil and solid fuel heating mechanics,Low Exposure,High Complementarity,LE-HC,NA
+72421,5.597175953,4.2336417,0.591944444,Appliance servicers and repairers,Low Exposure,Low Complementarity,LE-LC,NA
+72422,5.731598652,4.054808363,0.640833333,Electrical mechanics,Low Exposure,High Complementarity,LE-HC,NA
+72423,5.631643419,3.857394372,0.663425926,"Motorcycle, all-terrain vehicle and other related mechanics",Low Exposure,High Complementarity,LE-HC,NA
+72429,5.631541161,4.575627194,0.535833333,Other small engine and small equipment repairers,Low Exposure,Low Complementarity,LE-LC,NA
+72500,5.528270988,3.64160697,0.689722222,Crane operators,Low Exposure,High Complementarity,LE-HC,NA
+72501,5.718221929,4.183832378,0.616666667,Water well drillers,Low Exposure,High Complementarity,LE-HC,NA
+72600,5.817246966,3.740830051,0.704953704,"Air pilots, flight engineers and flying instructors",Low Exposure,High Complementarity,LE-HC,NA
+72602,5.71745572,3.357417053,0.761111111,"Deck officers, water transport",Low Exposure,High Complementarity,LE-HC,NA
+72603,5.797259308,3.790763448,0.694444444,"Engineer officers, water transport",Low Exposure,High Complementarity,LE-HC,NA
+72604,5.824404757,4.081937001,0.6475,Railway traffic controllers and marine traffic regulators,Low Exposure,High Complementarity,LE-HC,NA
+72999,5.644338445,4.057652193,0.629444444,Other technical trades and related occupations,Low Exposure,High Complementarity,LE-HC,NA
+73100,5.233404614,3.858182179,0.611111111,Concrete finishers,Low Exposure,Low Complementarity,LE-LC,NA
+73101,5.450049662,4.311594844,0.557222222,Tilesetters,Low Exposure,Low Complementarity,LE-LC,NA
+73102,5.24323936,4.24119806,0.539444444,"Plasterers, drywall installers and finishers and lathers",Low Exposure,Low Complementarity,LE-LC,NA
+73110,5.244433036,3.618658795,0.658333333,Roofers and shinglers,Low Exposure,High Complementarity,LE-HC,NA
+73111,5.440539123,3.699566603,0.668333333,Glaziers,Low Exposure,High Complementarity,LE-HC,NA
+73112,5.59709523,5.17420359,0.423888889,Painters and decorators (except interior decorators),Low Exposure,Low Complementarity,LE-LC,NA
+73113,5.388738113,4.128588944,0.582361111,Floor covering installers,Low Exposure,Low Complementarity,LE-LC,NA
+73200,5.394339283,3.976761051,0.610439815,Residential and commercial installers and servicers,Low Exposure,Low Complementarity,LE-LC,NA
+73201,5.587066367,3.639352953,0.696944444,General building maintenance workers and building superintendents,Low Exposure,High Complementarity,LE-HC,NA
+73202,5.707539963,4.3107781,0.593055556,Pest controllers and fumigators,Low Exposure,Low Complementarity,LE-LC,NA
+73209,5.708449475,4.309946974,0.594351852,Other repairers and servicers,Low Exposure,Low Complementarity,LE-LC,NA
+73300,5.6039813,4.146725542,0.608472222,Transport truck drivers,Low Exposure,Low Complementarity,LE-LC,Truck drivers
+73301,5.75381356,4.516841837,0.563333333,"Bus drivers, subway operators and other transit operators",Low Exposure,Low Complementarity,LE-LC,NA
+73310,5.714767441,3.855323777,0.673611111,Railway and yard locomotive engineers,Low Exposure,High Complementarity,LE-HC,NA
+73311,5.824404757,4.081937001,0.6475,Railway conductors and brakemen/women,Low Exposure,High Complementarity,LE-HC,NA
+73400,5.527178568,3.89664064,0.643214286,Heavy equipment operators,Low Exposure,High Complementarity,LE-HC,Equipment operators
+73401,5.685279941,4.622448441,0.535277778,Printing press operators,Low Exposure,Low Complementarity,LE-LC,NA
+73402,5.718221929,4.183832378,0.616666667,"Drillers and blasters - surface mining, quarrying and construction",Low Exposure,High Complementarity,LE-HC,NA
+74100,5.50043463,5.052760367,0.429722222,Mail and parcel sorters and related occupations,Low Exposure,Low Complementarity,LE-LC,NA
+74101,5.554654234,4.635050366,0.513888889,Letter carriers,Low Exposure,Low Complementarity,LE-LC,NA
+74102,5.567333508,4.386514479,0.560277778,Couriers and messengers,Low Exposure,Low Complementarity,LE-LC,NA
+74200,5.403946361,3.49455198,0.701666667,Railway yard and track maintenance workers,Low Exposure,High Complementarity,LE-HC,NA
+74201,5.516211403,3.71118445,0.675555556,Water transport deck and engine room crew,Low Exposure,High Complementarity,LE-HC,NA
+74203,5.524981021,4.062520692,0.61287037,Automotive and heavy truck and equipment parts installers and servicers,Low Exposure,Low Complementarity,LE-LC,NA
+74204,5.475799455,3.969578173,0.622314815,Utility maintenance workers,Low Exposure,High Complementarity,LE-HC,NA
+74205,5.420165999,4.134690783,0.585,Public works maintenance equipment operators and related workers,Low Exposure,Low Complementarity,LE-LC,NA
+75100,5.336598224,3.810529731,0.633472222,Longshore workers,Low Exposure,High Complementarity,LE-HC,NA
+75101,5.792257996,4.375229604,0.590396825,Material handlers,Low Exposure,Low Complementarity,LE-LC,NA
+75110,5.415087031,3.92883992,0.621925926,Construction trades helpers and labourers,Low Exposure,High Complementarity,LE-HC,NA
+75119,5.373384894,3.910630117,0.620555556,Other trades helpers and labourers,Low Exposure,High Complementarity,LE-HC,NA
+75201,5.567333508,4.386514479,0.560277778,Delivery service drivers and door-to-door distributors,Low Exposure,Low Complementarity,LE-LC,NA
+75210,5.717967987,3.635742712,0.71273148099999994,Boat and cable ferry operators and related occupations,Low Exposure,High Complementarity,LE-HC,NA
+75211,5.593691925,3.923353364,0.646944444,Railway and motor transport labourers,Low Exposure,High Complementarity,LE-HC,NA
+75212,5.382308612,4.492732605,0.513611111,Public works and maintenance labourers,Low Exposure,Low Complementarity,LE-LC,NA
+80020,5.843659754,3.933999933,0.672407407,Managers in agriculture,Low Exposure,High Complementarity,LE-HC,NA
+82010,5.749772652,3.77887836,0.691111111,"Supervisors, logging and forestry",Low Exposure,High Complementarity,LE-HC,NA
+82020,5.887740735,3.321667065,0.784166667,"Supervisors, mining and quarrying",Low Exposure,High Complementarity,LE-HC,NA
+82021,5.887740735,3.321667065,0.784166667,"Contractors and supervisors, oil and gas drilling and services",Low Exposure,High Complementarity,LE-HC,NA
+82030,5.725967492,3.944487767,0.658287037,Agricultural service contractors and farm supervisors,Low Exposure,High Complementarity,LE-HC,NA
+82031,5.923792036,3.836263583,0.700833333,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",Low Exposure,High Complementarity,LE-HC,NA
+83100,5.534404387,3.962931627,0.630381944,Underground production and development miners,Low Exposure,High Complementarity,LE-HC,NA
+83101,5.596483606,3.491583938,0.724444444,"Oil and gas well drillers, servicers, testers and related workers",Low Exposure,High Complementarity,LE-HC,NA
+83110,5.582156099,4.306013191,0.576944444,Logging machinery operators,Low Exposure,Low Complementarity,LE-LC,NA
+83120,5.398795864,4.320536357,0.548055556,Fishing masters and officers,Low Exposure,Low Complementarity,LE-LC,NA
+83121,5.398795864,4.320536357,0.548055556,Fishermen/women,Low Exposure,Low Complementarity,LE-LC,NA
+84100,5.338995079,3.428821284,0.706111111,Underground mine service and support workers,Low Exposure,High Complementarity,LE-HC,NA
+84101,5.53876126,3.89835675,0.644722222,Oil and gas well drilling and related workers and services operators,Low Exposure,High Complementarity,LE-HC,NA
+84110,5.225291325,4.143946315,0.555277778,Chain saw and skidder operators,Low Exposure,Low Complementarity,LE-LC,NA
+84111,5.48984448,3.725469462,0.669722222,Silviculture and forestry workers,Low Exposure,High Complementarity,LE-HC,NA
+84120,5.604689177,3.944633015,0.641388889,Specialized livestock workers and farm machinery operators,Low Exposure,High Complementarity,LE-HC,NA
+84121,5.398795864,4.320536357,0.548055556,Fishing vessel deckhands,Low Exposure,Low Complementarity,LE-LC,NA
+85100,5.604689177,3.944633015,0.641388889,Livestock labourers,Low Exposure,High Complementarity,LE-HC,NA
+85101,5.241046781,4.292673692,0.527685185,Harvesting labourers,Low Exposure,Low Complementarity,LE-LC,NA
+85102,5.534948564,4.226548223,0.584722222,Aquaculture and marine harvest labourers,Low Exposure,Low Complementarity,LE-LC,NA
+85103,5.09409589,4.325736426,0.499166667,Nursery and greenhouse labourers,Low Exposure,Low Complementarity,LE-LC,NA
+85104,5.398795864,4.320536357,0.548055556,Trappers and hunters,Low Exposure,Low Complementarity,LE-LC,NA
+85110,5.338995079,3.428821284,0.706111111,Mine labourers,Low Exposure,High Complementarity,LE-HC,NA
+85111,5.35098494,3.607093832,0.674305556,"Oil and gas drilling, servicing and related labourers",Low Exposure,High Complementarity,LE-HC,Oil and gas labourers
+85121,5.368045042,3.999847951,0.602777778,Landscaping and grounds maintenance labourers,Low Exposure,Low Complementarity,LE-LC,NA
+92010,5.979663209,3.848577682,0.704722222,"Supervisors, mineral and metal processing",Low Exposure,High Complementarity,LE-HC,NA
+92011,5.979663209,3.848577682,0.704722222,"Supervisors, petroleum, gas and chemical processing and utilities",Low Exposure,High Complementarity,LE-HC,NA
+92012,5.979663209,3.848577682,0.704722222,"Supervisors, food and beverage processing",Low Exposure,High Complementarity,LE-HC,NA
+92013,5.979663209,3.848577682,0.704722222,"Supervisors, plastic and rubber products manufacturing",Low Exposure,High Complementarity,LE-HC,NA
+92014,5.979663209,3.848577682,0.704722222,"Supervisors, forest products processing",Low Exposure,High Complementarity,LE-HC,NA
+92015,5.979663209,3.848577682,0.704722222,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",Low Exposure,High Complementarity,LE-HC,NA
+92020,5.979663209,3.848577682,0.704722222,"Supervisors, motor vehicle assembling",Low Exposure,High Complementarity,LE-HC,NA
+92021,5.979663209,3.848577682,0.704722222,"Supervisors, electronics and electrical products manufacturing",Low Exposure,High Complementarity,LE-HC,NA
+92022,5.979663209,3.848577682,0.704722222,"Supervisors, furniture and fixtures manufacturing",Low Exposure,High Complementarity,LE-HC,NA
+92023,5.979663209,3.848577682,0.704722222,"Supervisors, other mechanical and metal products manufacturing",Low Exposure,High Complementarity,LE-HC,NA
+92024,5.979663209,3.848577682,0.704722222,"Supervisors, other products manufacturing and assembly",Low Exposure,High Complementarity,LE-HC,NA
+92100,5.734984432,4.36120416,0.585902778,Power engineers and power systems operators,Low Exposure,Low Complementarity,LE-LC,NA
+92101,5.833989062,4.041657978,0.655555556,Water and waste treatment plant operators,Low Exposure,High Complementarity,LE-HC,NA
+93100,5.508338791,4.510717432,0.529444444,"Central control and process operators, mineral and metal processing",Low Exposure,Low Complementarity,LE-LC,NA
+93101,5.759065824,4.192607113,0.620092593,"Central control and process operators, petroleum, gas and chemical processing",Low Exposure,High Complementarity,LE-HC,NA
+93102,5.59075983,4.595095461,0.526203704,"Pulping, papermaking and coating control operators",Low Exposure,Low Complementarity,LE-LC,NA
+93200,5.6699810919999996,4.186222738,0.611203704,Aircraft assemblers and aircraft assembly inspectors,Low Exposure,Low Complementarity,LE-LC,NA
+94100,5.508338791,4.510717432,0.529444444,"Machine operators, mineral and metal processing",Low Exposure,Low Complementarity,LE-LC,NA
+94101,5.367004469,4.439165294,0.521944444,Foundry workers,Low Exposure,Low Complementarity,LE-LC,NA
+94102,5.535717023,4.721337135,0.495222222,Glass forming and finishing machine operators and glass cutters,Low Exposure,Low Complementarity,LE-LC,NA
+94103,5.47000435,4.602707161,0.506898148,"Concrete, clay and stone forming operators",Low Exposure,Low Complementarity,LE-LC,NA
+94104,5.880311896,4.470670461,0.588055556,"Inspectors and testers, mineral and metal processing",Low Exposure,Low Complementarity,LE-LC,NA
+94105,5.612922794,4.676014306,0.51525,Metalworking and forging machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94106,5.623666133,4.732065901,0.506805556,Machining tool operators,Low Exposure,Low Complementarity,LE-LC,NA
+94107,5.44345163,4.254964691,0.566666667,Machine operators of other metal products,Low Exposure,Low Complementarity,LE-LC,NA
+94110,5.832945741,4.21653676,0.625416667,Chemical plant machine operators,Low Exposure,High Complementarity,LE-HC,NA
+94111,5.589672976,4.651471845,0.516132479,Plastics processing machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94112,5.45986093,4.658006499,0.494944444,Rubber processing machine operators and related workers,Low Exposure,Low Complementarity,LE-LC,NA
+94120,5.50943605,4.485599184,0.534166667,Sawmill machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94121,5.62620502,4.543632081,0.540694444,"Pulp mill, papermaking and finishing machine operators",Low Exposure,Low Complementarity,LE-LC,NA
+94122,5.640599903,4.434138257,0.562222222,Paper converting machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94123,5.819645544,4.316237112,0.606666667,Lumber graders and other wood processing inspectors and graders,Low Exposure,Low Complementarity,LE-LC,NA
+94124,5.567488048,4.424342645,0.552916667,Woodworking machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94129,5.517250517,4.502704645,0.532222222,Other wood processing machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94130,5.375828808,4.850411397,0.445740741,"Textile fibre and yarn, hide and pelt processing machine operators and workers",Low Exposure,Low Complementarity,LE-LC,NA
+94131,5.51087226,4.638317485,0.506666667,"Weavers, knitters and other fabric making occupations",Low Exposure,Low Complementarity,LE-LC,NA
+94132,5.585216871,5.241791572,0.409861111,Industrial sewing machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94133,5.880311896,4.470670461,0.588055556,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",Low Exposure,Low Complementarity,LE-LC,NA
+94140,5.713786239,4.680125167,0.529097222,"Process control and machine operators, food and beverage processing",Low Exposure,Low Complementarity,LE-LC,NA
+94141,5.446901448,4.4482946310000004,0.531851852,"Industrial butchers and meat cutters, poultry preparers and related workers",Low Exposure,Low Complementarity,LE-LC,NA
+94142,5.640263083,4.570805513,0.537430556,Fish and seafood plant workers,Low Exposure,Low Complementarity,LE-LC,NA
+94143,5.880311896,4.470670461,0.588055556,"Testers and graders, food and beverage processing",Low Exposure,Low Complementarity,LE-LC,NA
+94150,5.801475923,5.30835047,0.433333333,Plateless printing equipment operators,Low Exposure,Low Complementarity,LE-LC,NA
+94152,5.626101515,4.79312593,0.496388889,Binding and finishing machine operators,Low Exposure,Low Complementarity,LE-LC,NA
+94153,5.871594866,4.901150714,0.513611111,Photographic and film processors,Low Exposure,Low Complementarity,LE-LC,NA
+94200,5.741951813,4.407505302,0.580555556,"Motor vehicle assemblers, inspectors and testers",Low Exposure,Low Complementarity,LE-LC,Motor vehicle assemblers / inspectors
+94201,5.793522343,4.669792407,0.541944444,"Electronics assemblers, fabricators, inspectors and testers",Low Exposure,Low Complementarity,LE-LC,NA
+94202,5.816611357,4.561269035,0.563888889,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",Low Exposure,Low Complementarity,LE-LC,NA
+94203,5.845268917,4.678051052,0.547777778,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",Low Exposure,Low Complementarity,LE-LC,NA
+94204,5.741951813,4.407505302,0.580555556,Mechanical assemblers and inspectors,Low Exposure,Low Complementarity,LE-LC,NA
+94205,5.880311896,4.470670461,0.588055556,"Machine operators and inspectors, electrical apparatus manufacturing",Low Exposure,Low Complementarity,LE-LC,NA
+94210,5.75177402,4.512857268,0.562592593,"Furniture and fixture assemblers, finishers, refinishers and inspectors",Low Exposure,Low Complementarity,LE-LC,NA
+94212,5.880311896,4.470670461,0.588055556,"Plastic products assemblers, finishers and inspectors",Low Exposure,Low Complementarity,LE-LC,NA
+94213,5.506692956,4.405354365,0.548333333,"Industrial painters, coaters and metal finishing process operators",Low Exposure,Low Complementarity,LE-LC,NA
+94219,5.76195143,4.465458589,0.575,"Other products assemblers, finishers and inspectors",Low Exposure,Low Complementarity,LE-LC,NA
+95100,5.39842728,4.543676294,0.506666667,Labourers in mineral and metal processing,Low Exposure,Low Complementarity,LE-LC,NA
+95101,5.39842728,4.543676294,0.506666667,Labourers in metal fabrication,Low Exposure,Low Complementarity,LE-LC,NA
+95102,5.688106254,4.325583271,0.585833333,Labourers in chemical products processing and utilities,Low Exposure,Low Complementarity,LE-LC,NA
+95103,5.39842728,4.543676294,0.506666667,"Labourers in wood, pulp and paper processing",Low Exposure,Low Complementarity,LE-LC,NA
+95104,5.39842728,4.543676294,0.506666667,Labourers in rubber and plastic products manufacturing,Low Exposure,Low Complementarity,LE-LC,NA
+95105,5.425241629,4.927062867,0.440069444,Labourers in textile processing and cutting,Low Exposure,Low Complementarity,LE-LC,NA
+95106,5.39842728,4.543676294,0.506666667,Labourers in food and beverage processing,Low Exposure,Low Complementarity,LE-LC,NA
+95107,5.39842728,4.543676294,0.506666667,Labourers in fish and seafood processing,Low Exposure,Low Complementarity,LE-LC,NA
+95109,5.658769882,4.524399859,0.547383041,"Other labourers in processing, manufacturing and utilities",Low Exposure,Low Complementarity,LE-LC,NA
