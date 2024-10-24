@@ -4,7 +4,7 @@ library(stringr)
 library(scales)
 library(ggplot2)
 library(DaisTheme)
-library(spatstat)
+# library(spatstat)
 library(plyr)
 library(readr)
 
@@ -547,6 +547,96 @@ fig_C1 <- plot.line.dais(figure_C1_data,tf,tf_adjusted,group.by=Dais_quadrant,
         legend.key.height = unit(1, "cm"))+
   guides(color = guide_legend(ncol=1))
 
+figure_2_data  <- fread("Figure_2.csv")
+figure_D1_data <- figure_2_data
+setorder(figure_D1_data, Quadrant, month)
+
+figure_D1_data[, value_lag := shift(N, type = "lag"), by = Quadrant]
+
+figure_D1_data[, rate_of_change := (N - value_lag) / value_lag ]
+
+fig_D1<-ggplot(figure_D1_data, aes(x = month, y = rate_of_change, color = Quadrant, group = Quadrant)) +
+  geom_line() +
+  labs(title = graph.data[graph.data$Figure_number=="Figure D1", Figure_number],
+       subtitle = graph.data[graph.data$Figure_number=="Figure D1",Figure_title],
+       caption = graph.data[graph.data$Figure_number=="Figure D1", Caption],
+       x = graph.data[graph.data$Figure_number=="Figure D1",X_Axis],
+       y = graph.data[graph.data$Figure_number=="Figure D1",Y_Axis],
+       color = graph.data[graph.data$Figure_number=="Figure D1",Legend_name]) +
+  scale_color_manual(values = c("black", "#eb0072", "#0077c8"),
+                     labels = c(graph.data[graph.data$Figure_number=="Figure D1",Legend_label_1],
+                                graph.data[graph.data$Figure_number=="Figure D1",Legend_label_2],
+                                graph.data[graph.data$Figure_number=="Figure D1",Legend_label_3])) +
+  scale_y_continuous(labels = percent_format()) + 
+  scale_x_date(limits = c(min(figure_D1_data$month), max(figure_D1_data$month)),
+               expand = c(0, 0)) +
+  coord_cartesian(xlim = c(min(figure_D1_data$month), max(figure_D1_data$month)+62)) +  # Extend right side
+  # Add vertical lines for April 2022 and November 2022
+  geom_vline(xintercept = as.Date("2020-03-01"), linetype = "solid", color = "black") +
+  geom_vline(xintercept = as.Date("2022-04-01"), linetype = "solid", color = "black") +
+  geom_vline(xintercept = as.Date("2022-11-01"), linetype = "solid", color = "red") +
+  # Add annotations for the vertical lines
+  annotate("text", x = as.Date("2020-03-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D1",Graph_label_1], vjust = 1, hjust= 1.1, color = "black", family = "sans") +
+  annotate("text", x = as.Date("2022-04-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D1",Graph_label_2], vjust = 1, hjust= 1.1, color = "black", family = "sans") +
+  annotate("text", x = as.Date("2022-11-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D1",Graph_label_3], vjust = 1, hjust= -0.1, color = "red", family = "sans") +
+  dais.base.theme()+
+  theme(axis.text.x = element_text(size = 14, angle = 45, hjust = 1),
+        legend.text = element_text(size = 14),  
+        legend.title = element_text(size = 16), 
+        legend.key.width = unit(2, "cm"), 
+        legend.key.height = unit(1, "cm"),
+        plot.title = element_text(size = 22), 
+        plot.subtitle = element_text(size = 20), 
+        axis.title.x = element_text(size = 18,margin = margin(r = 0, t = 10, b = 0, l = 0)),
+        axis.title.y = element_text(size = 18, margin = margin(r = 10, t = 0, b = 0, l = 0)),
+        plot.margin = margin(10, 10, 15, 10, "pt"),
+        axis.text.y = element_text(size = 14))
+
+figure_4_data  <- fread("Figure_4.csv")
+figure_D2_data <- figure_4_data
+setorder(figure_D2_data, Quadrant, month)
+
+figure_D2_data[, value_lag := shift(avg_remuneration, type = "lag"), by = Quadrant]
+
+figure_D2_data[, rate_of_change := (avg_remuneration - value_lag) / value_lag]
+
+fig_D2<-ggplot(figure_D2_data, aes(x = month, y = rate_of_change, color = Quadrant, group = Quadrant)) +
+  geom_line(size = 1) +
+  labs(title = graph.data[graph.data$Figure_number=="Figure D2", Figure_number],
+       subtitle = graph.data[graph.data$Figure_number=="Figure D2",Figure_title],
+       caption = graph.data[graph.data$Figure_number=="Figure D2", Caption],
+       x = graph.data[graph.data$Figure_number=="Figure D2",X_Axis],
+       y = graph.data[graph.data$Figure_number=="Figure D2",Y_Axis],
+       color = graph.data[graph.data$Figure_number=="Figure D2",Legend_name]) +
+  scale_color_manual(values = c("black", "#eb0072", "#0077c8"),
+                     labels = c(graph.data[graph.data$Figure_number=="Figure D2",Legend_label_1],
+                                graph.data[graph.data$Figure_number=="Figure D2",Legend_label_2],
+                                graph.data[graph.data$Figure_number=="Figure D2",Legend_label_3])) +
+  scale_x_date(limits = c(min(figure_D2_data$month), max(figure_D2_data$month)),
+               expand = c(0, 0)) +
+  coord_cartesian(xlim = c(min(figure_D2_data$month), max(figure_D2_data$month)+62)) +  # Extend right side
+  scale_y_continuous(labels = percent_format()) + 
+  # Add vertical lines for April 2022 and November 2022
+  geom_vline(xintercept = as.Date("2020-03-01"), linetype = "solid", color = "black") +
+  geom_vline(xintercept = as.Date("2022-04-01"), linetype = "solid", color = "black") +
+  geom_vline(xintercept = as.Date("2022-11-01"), linetype = "solid", color = "red") +
+  # Add annotations for the vertical lines
+  annotate("text", x = as.Date("2020-03-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D2",Graph_label_1], vjust = 1, hjust= 1.1, color = "black", family = "sans") +
+  annotate("text", x = as.Date("2022-04-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D2",Graph_label_2], vjust = 1, hjust= 1.1, color = "black", family = "sans") +
+  annotate("text", x = as.Date("2022-11-01"), y = Inf, label = graph.data[graph.data$Figure_number=="Figure D2",Graph_label_3], vjust = 1, hjust= -0.1, color = "red", family = "sans") +
+  dais.base.theme()+
+  theme(axis.text.x = element_text(size = 14, angle = 45, hjust = 1),
+        legend.text = element_text(size = 14),  
+        legend.title = element_text(size = 16), 
+        legend.key.width = unit(2, "cm"), 
+        legend.key.height = unit(1, "cm"),
+        plot.title = element_text(size = 22), 
+        plot.subtitle = element_text(size = 20), 
+        axis.title.x = element_text(size = 18,margin = margin(r = 0, t = 10, b = 0, l = 0)),
+        axis.title.y = element_text(size = 18, margin = margin(r = 10, t = 0, b = 0, l = 0)),
+        plot.margin = margin(10, 10, 15, 10, "pt"),
+        axis.text.y = element_text(size = 14)) 
+
 export.dais.plot("Graph_exports_EN/Figure_1.pdf",fig_1,p.height = 12, p.width = 18)
 export.dais.plot("Graph_exports_EN/Figure_2.pdf",fig_2,p.height = 12, p.width = 18)
 export.dais.plot("Graph_exports_EN/Figure_3.pdf",fig_3,p.height = 12, p.width = 18)
@@ -561,3 +651,5 @@ export.dais.plot("Graph_exports_EN/Figure_B1.pdf",fig_B1,p.height = 12, p.width 
 export.dais.plot("Graph_exports_EN/Figure_B2.pdf",fig_B2,p.height = 12, p.width = 18)
 export.dais.plot("Graph_exports_EN/Figure_B3.pdf",fig_B3,p.height = 12, p.width = 18)
 export.dais.plot("Graph_exports_EN/Figure_C1.pdf",fig_C1,p.height = 12, p.width = 18)
+export.dais.plot("Graph_exports_EN/Figure_C1.pdf",fig_C1,p.height = 12, p.width = 18)
+export.dais.plot("Graph_exports_EN/Figure_D1.pdf",fig_D1,p.height = 12, p.width = 18)
