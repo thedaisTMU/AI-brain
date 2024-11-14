@@ -4,7 +4,6 @@ library(stringr)
 library(scales)
 library(ggplot2)
 library(DaisTheme)
-# library(spatstat)
 library(plyr)
 library(readr)
 
@@ -210,11 +209,11 @@ fig_5 <- ggplot(figure_5_data, aes(x = month, y = index, color = interaction(Qua
   scale_y_continuous(breaks = seq(0, max(figure_5_data$index, na.rm = TRUE), by = 20)) +
   geom_hline(yintercept = 100, linetype = "dashed", color = "grey", size = 0.5, alpha = 0.9) +
   # Custom colors and linetypes for each combination of quadrant and education
-  scale_color_manual(values = c("#eb0072", "black", "#eb0072"),
+  scale_color_manual(values = c("#eb0072", "black", "#0077c8"),
                      labels = c(graph.data[graph.data$Figure_number=="Figure 5",Legend_label_1],
                                 graph.data[graph.data$Figure_number=="Figure 5",Legend_label_2],
                                 graph.data[graph.data$Figure_number=="Figure 5",Legend_label_3])) +
-  scale_linetype_manual(values = c("solid", "dashed", "dashed"),
+  scale_linetype_manual(values = c("solid", "solid", "solid"),
                         labels = c(graph.data[graph.data$Figure_number=="Figure 5",Legend_label_1],
                                    graph.data[graph.data$Figure_number=="Figure 5",Legend_label_2],
                                    graph.data[graph.data$Figure_number=="Figure 5",Legend_label_3])) +
